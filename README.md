@@ -10,10 +10,15 @@ What Software Do I Need?
 I Completed and Submited Project using the Jupyter Notebook provided there. 
 
 The following packages (libraries) need to be installed. We installedthese packages via conda or pip. 
+
 pandas
+
 NumPy
+
 requests
+
 tweepy
+
 json
 We need to be able to create written documents that contain images and you need to be able to export these documents as PDF files. 
 

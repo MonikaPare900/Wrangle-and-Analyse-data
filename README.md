@@ -7,7 +7,7 @@ The dataset that you will be wrangling (and analyzing and visualizing) is the tw
 WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
 
 What Software Do I Need?
-I Completed and Submited Project using the Jupyter Notebook provided there. (
+I Completed and Submited Project using the Jupyter Notebook provided there. 
 
 The following packages (libraries) need to be installed. We installedthese packages via conda or pip. 
 pandas

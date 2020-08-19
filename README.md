@@ -1,2 +1,28 @@
 # Wrangle-and-Analyse-data
-This project is a part of Udacity's Data Analyst Nanodegree Program under the section Data Wrangling.
+Introduction
+Real-world data rarely comes clean. Using Python and its libraries, you will gather data from a variety of sources and in a variety of formats, assess its quality and tidiness, then clean it. This is called data wrangling. You will document your wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python (and its libraries) and/or SQL.
+
+The dataset that you will be wrangling (and analyzing and visualizing) is the tweet archive of Twitter user @dog_rates, also known as WeRateDogs. WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. These ratings almost always have a denominator of 10. The numerators, though? Almost always greater than 10. 11/10, 12/10, 13/10, etc. Why? Because "they're good dogs Brent." WeRateDogs has over 4 million followers and has received international media coverage.
+
+WeRateDogs downloaded their Twitter archive and sent it to Udacity via email exclusively for you to use in this project. This archive contains basic tweet data (tweet ID, timestamp, text, etc.) for all 5000+ of their tweets as they stood on August 1, 2017. More on this soon.
+
+What Software Do I Need?
+I Completed and Submited Project using the Jupyter Notebook provided there. (
+
+The following packages (libraries) need to be installed. We installedthese packages via conda or pip. 
+pandas
+NumPy
+requests
+tweepy
+json
+We need to be able to create written documents that contain images and you need to be able to export these documents as PDF files. 
+
+Project Details
+My tasks in this project are as follows:
+
+Data wrangling, which consists of:
+Gathering data 
+Assessing data
+Cleaning data
+Storing, analyzing, and visualizing your wrangled data
+Reporting on 1) My data wrangling efforts and 2) My data analyses and visualizations
